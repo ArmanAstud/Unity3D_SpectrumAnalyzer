@@ -1,2 +1,2 @@
-# Unity3D_SpectrumAnalyzer
+# DOCUMENTACION
 Fichero de documentación sobre distribución de elementos en las escenas.
