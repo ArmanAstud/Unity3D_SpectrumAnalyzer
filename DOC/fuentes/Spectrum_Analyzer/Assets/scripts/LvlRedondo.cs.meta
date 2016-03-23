@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 444dd9b852c27c848ae77170edf670ca
+timeCreated: 1447094236
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {fileID: 8300000, guid: 6c47a11dafddff741b6d666848d1140f, type: 3}
+  - cube: {fileID: 178830, guid: 536ad1aeae7e7de42a5761269805d45e, type: 2}
+  - line: {instanceID: 0}
+  - lucesRadial: {fileID: 113992, guid: 938e4cd37253b8348a7e3923763e94ee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
