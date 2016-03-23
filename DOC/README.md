@@ -1,5 +1,5 @@
 # DOCUMENTACION
 
-Fichero con documentación sobre las escenas del analizador de espectro realizado en Unity3D.
+This folder contains the necessary scenes to compile the spectrum analyzer unity.
+Esta carpeta contiene las escenas necesarias para compilar el analizador de espectro en unity.
 
-En la carpeta de fuentes se encuentran las carpetas y materiales necesarios en el proyecto, así como un pdf e imágenes de la distribución recomendada de los elementos en las distintas escenas.
