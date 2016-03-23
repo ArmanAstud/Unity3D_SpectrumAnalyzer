@@ -1,3 +1,0 @@
-# PROYECTO
-
-Carpeta del proyecto
